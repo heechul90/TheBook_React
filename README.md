@@ -16,7 +16,7 @@
             ```
         - 설치 후 확인
             ```
-            yarn -v
+            yarn -v 
             ```
     - vscode 설치
         - [vscode]https://code.visualstudio.com/download
