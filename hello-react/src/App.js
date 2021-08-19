@@ -5,5 +5,4 @@ const App = () => {
   return <MyComponent/>;
 };
 
-
 export default App;
