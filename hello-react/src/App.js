@@ -1,10 +1,9 @@
 import React from 'react';
 import MyComponent from './MyComponent';
 
-const App = () => {
-  var a = 1;
-  
-  return <MyComponent/>;
-};
+function App() {
+  const name = '리액트';
+  return <div className="react">{name}</div>;
+}
 
 export default App;
