@@ -37,6 +37,3 @@
     start yarn
     ```
 - port : 3000 접수
-
-
-
